@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-echo": "^1.15.3",
+        "laravel-vite-plugin": "^0.7.5",
+        "pusher-js": "^8.3.0",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "alpinejs": "^3.13.3",
+        "lightbox2": "^2.11.4",
+        "proj4": "^2.9.0",
+        "push.js": "^1.0.12"
+    }
+}

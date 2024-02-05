@@ -1,0 +1,33 @@
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3VzdG9tLmNzcyIsInNvdXJjZXMiOlsiY3VzdG9tLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiJ9 */
+
+/*# sourceMappingURL=custom.css.map */
+
+
+.hide {
+    display: none;
+  }
+  
+  .show {
+    display: block;
+  }
+ /* Add your custom CSS styles here */
+ .container {
+  margin: 20px;
+}
+
+.floating-indicator {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 4px;
+  padding: 10px 20px;
+  opacity: 0;
+  transition: opacity 0.5s;
+  z-index: 999;
+}
+
+/* Add more styles as needed */
+  
